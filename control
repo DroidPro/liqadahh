@@ -1,0 +1,10 @@
+Package: droidpro.liqadahh
+Name: Liqadahh27
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Based on dylv tweak , improvements and bugs resolved
+Maintainer: droidpro
+Author: droidpro
+Section: Liquid Glass
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Icon: https://github.com/DroidPro/liqadahh/blob/main/repo/icon.png
